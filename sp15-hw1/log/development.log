@@ -1,0 +1,75 @@
+
+
+Started GET "/about" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 411ms (Views: 392.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing.css?body=1" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+
+
+Started GET "/assets/bg-richard.jpg" for 127.0.0.1 at 2015-02-19 23:05:08 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 58ms (Views: 56.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing.css?body=1" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+
+
+Started GET "/assets/banner-bg.jpg" for 127.0.0.1 at 2015-02-19 23:05:11 -0800
+
+
+Started GET "/about" for 127.0.0.1 at 2015-02-19 23:05:12 -0800
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 63ms (Views: 61.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bg-richard.jpg" for 127.0.0.1 at 2015-02-19 23:05:13 -0800
